@@ -1,6 +1,6 @@
 # RachelGali
 
-![Preview](https://raw.githubusercontent.com/GilBrou/RachelGali/master/public/img/RGLogo.webp)
+![Preview](https://raw.githubusercontent.com/GilBrou/RachelGali/master/public/img/RGLogo2.webp)
 
 Création d'un portfolio d'écrivain SFFF.
 
@@ -35,5 +35,3 @@ Lien pour consulter le site : https://www.rachelgali.com/
 ![Preview](https://raw.githubusercontent.com/GilBrou/RachelGali/master/public/img/Site3.webp)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/RachelGali/master/public/img/Site4.webp)
-# RachelGali
-# RachelGali
