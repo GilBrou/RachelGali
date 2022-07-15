@@ -15,7 +15,7 @@ détail :
 			image, vidéos, résumé général, résumé de texte, liens d'achats, liens d'avis...)
 		Code commenté.
 		Site full responsive.
-		Création de la charte graphique, logo, infographies, icônes et animations.
+		Création de la charte graphique, logo, infographies et animations.
 	
 
 Environnement de travail :
