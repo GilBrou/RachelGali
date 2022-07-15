@@ -11,7 +11,8 @@ détail :
 		Composants modulaires et réutilisables.
 		DOM dynamique (depuis Json).
 		Liste dynamique des ouvrages.
-		Lien vers page dédiée (création de template pour les livres : image, vidéos, résumé général, résumé de texte, liens d'achats, liens d'avis...)
+		Lien vers page dédiée (création de template pour les livres :
+			image, vidéos, résumé général, résumé de texte, liens d'achats, liens d'avis...)
 		Code commenté.
 		Site full responsive.
 		Création de la charte graphique, logo, infographies, icônes et animations.
