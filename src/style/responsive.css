@@ -1,0 +1,170 @@
+/**********MD-992************/
+@media (max-width: 992px) {
+  #bookItem {
+    padding-bottom: 60px;
+  }
+  .container1 {
+    text-align: center;
+  }
+  .left1 img {
+    max-width: 350px;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .auteursTagsWrapper,
+  .bookInfos {
+    text-align: justify;
+  }
+  .container2 {
+    margin-top: unset;
+  }
+  .leftA {
+    margin: auto;
+    padding: 15px;
+    min-height: 120px;
+    max-width: 350px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+  }
+  .leftA p {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .leftA li {
+    margin-left: unset;
+    margin: auto;
+    color: black;
+  }
+  .leftA a:hover,
+  .leftA li:hover {
+    color: white;
+    transform: scale(1.1);
+  }
+  .fa-shopping-cart {
+    margin-right: 20px;
+    font-size: 35px;
+    margin-left: 20px;
+  }
+}
+
+/**********SM-768************/
+@media (max-width: 768px) {
+  .tight {
+    max-width: 80vw;
+    margin: auto;
+  }
+  .infographie {
+    margin: auto;
+    width: 90%;
+  }
+  .frame {
+    transform: unset;
+    margin: 30px;
+  }
+  .bookshelf img {
+    margin: 60px auto 60px auto;
+    transform: unset;
+  }
+  .testimonial {
+    background-color: rgba(255, 255, 255, 0.6);
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 10px 10px;
+  }
+  .testimonial-content {
+    width: 100%;
+  }
+  .testimonial:hover {
+    transform: scale(1.1);
+  }
+  #contact .social i.fa {
+    font-size: 22px;
+    width: 48px;
+    height: 48px;
+    padding: 12px 0;
+  }
+  .left1 img {
+    max-width: 250px;
+    transform: unset;
+  }
+  .auteursTagsWrapper,
+  .bookInfos {
+    text-align: center;
+  }
+  .authorLogo2 {
+    margin: auto;
+  }
+  .head2 {
+    text-align: center;
+  }
+  #menu.navbar-default .navbar-nav > li > a {
+    font-size: 20px;
+  }
+}
+
+/**********688************/
+@media (max-width: 688px) {
+  .testimonial {
+    background-color: rgba(255, 255, 255, 0.6);
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 10px 10px;
+    min-height: unset;
+    margin: 35px auto 35px auto;
+  }
+  .testimonial-content {
+    text-align: justify;
+    width: 100%;
+  }
+  .testimonial-image {
+    float: unset;
+    margin: auto;
+  }
+  .testimonial:hover {
+    transform: scale(1);
+  }
+  #contact .social i.fa {
+    font-size: 22px;
+    width: 48px;
+    height: 48px;
+    padding: 12px 0;
+  }
+  .photoAuteurWrapper {
+    position: relative;
+    max-height: 150px;
+    margin: auto auto 50px auto;
+  }
+  .photoAuteur {
+    max-height: 180px;
+    margin: auto;
+  }
+  .bookInfos,
+  .textInfos,
+  .reviews p,
+  .reviews li {
+    font-size: 19px;
+  }
+  .auteursTags,
+  .genreTags {
+    font-size: 14px;
+  }
+  .bookTitle {
+    text-decoration: unset;
+  }
+  .extrait {
+    font-size: 22px;
+  }
+  .intro {
+    height: auto;
+    padding-bottom: 0px;
+  }
+  .intro-text {
+    padding-bottom: 10px;
+  }
+  #features h3 {
+    font-size: 13px;
+    padding-bottom: 20px;
+  }
+  #features {
+    padding-bottom: 0px;
+  }
+  .section-title {
+    margin-bottom: 20px;
+  }
+}

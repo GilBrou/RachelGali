@@ -1,0 +1,26 @@
+/*Module*/
+#features {
+	background-color: black;
+	background: url(./1.webp) center center;
+	background-attachment: fixed;
+	background-blend-mode: screen;
+	background-size: cover;
+	color: white;
+	padding-bottom: 60px;
+	box-shadow: 0px 0px 15px grey inset;
+}
+#features h3 {
+	color: white;
+}
+#features i.fa {
+	font-size: 38px;
+	margin-bottom: 20px;
+	transition: all 0.5s;
+	color: black;
+	width: 100px;
+	height: 100px;
+	padding: 30px 0;
+	border-radius: 50%;
+	background: white;
+	box-shadow: gray 0px 0px 10px 1px;
+}

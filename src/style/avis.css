@@ -1,0 +1,66 @@
+/*module*/
+#avis {
+  padding: 100px 0;
+  color: black;
+  box-shadow: 0px 0px 15px inset;
+  font-size: 32px;
+  background: url(./1.webp) center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: black;
+}
+#avis a{
+  color: black;
+}
+.testimonial {
+  background: url(./3.webp) center center;
+  position: relative;
+  margin: 25px;
+  padding: 15px;
+  transition: 0.3s;border-radius: 5px;
+  min-height: 120px;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: rgba(255, 255, 255, 0.6) 1px 1px 2px 1px;
+}
+.testimonial-image {
+  float: left;
+  margin-right: 15px;
+}
+.testimonial-image,
+.testimonial-image img {
+  width: 64px;
+  height: auto;
+  max-width: 64px;
+  border-radius: 3px;
+}
+.testimonial-content {
+  max-width: 500;
+  position: relative;
+  overflow: hidden;
+  text-align: justify;
+}
+.testimonial-content p {
+  margin-bottom: 0;
+  font-size: 15px;
+  font-weight: 465;
+  font-style: italic;
+}
+.testimonial-content h3 {
+  color: black;
+  margin-bottom: 10;
+  font-size: 18px;
+  font-weight: 800;
+  text-align: center;
+}
+.testimonial-meta {
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: right;
+}
+.testimonial:hover {
+  transform: scale(1.1);
+  background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: rgba(255, 255, 255, 0.8) 1px 1px 6px 2px;
+}

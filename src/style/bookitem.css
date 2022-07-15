@@ -1,0 +1,192 @@
+/*module*/
+
+#bookItem {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: black;
+  color: black;
+  background: url(./2.webp) center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+.container1 {
+  text-align: justify;
+  margin-top: 50px;
+}
+.left1 {
+  padding: 20px;
+  animation: scale-in-center 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0.3s both;
+}
+.left1 img {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 30px;
+  transition: 0.4s;
+  transform-origin: center;
+  transform: perspective(900px) rotateY(15deg);
+  box-shadow: rgba(0, 0, 0, 0.5) 2.4px 2.4px 10px 5px;
+}
+.right1 {
+  animation: swing-in-right-fwd 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275)
+    0.6s both;
+}
+.bookTitle {
+  color: black;
+  margin-top: 5px;
+  font-weight: 650;
+  font-size: 30px;
+  text-decoration: underline overline;
+  text-underline-offset: 3px;
+}
+.bookSubTitle {
+  color: black;
+  margin-top: 5px;
+  font-weight: 650;
+  font-size: 21px;
+}
+.bookInfos {
+  color: black;
+  margin-top: 5px;
+  font-weight: 650;
+  font-size: 25px;
+}
+.genreTags,
+.auteursTags {
+  color: black;
+  display: inline-block;
+  margin-right: 10px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 5px 10px 5px 0px;
+}
+.genreTags {
+  color: white;
+  font-weight: 500;
+  padding: 5px;
+  text-align: center;
+  background-color: black;
+  border-radius: 7px;
+}
+.summary {
+  text-align: justify;
+  font-size: 18px;
+  font-style: italic;
+  background: url(./7.webp) center center;
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  min-height: 120px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 10px 5px;
+}
+.textInfos {
+  color: black;
+  margin-top: 5px;
+  font-weight: 650;
+  font-size: 22px;
+}
+.container2 {
+  margin-top: 20px;
+  animation: swing-in-bottom-fwd 0.7s cubic-bezier(0.175, 0.885, 0.32, 1.275) 1s
+    both;
+}
+.reviews {
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  padding: 15px;
+  border-radius: 5px;
+  /*  min-height: 150px;*/
+}
+.reviews p,
+.reviews li {
+  margin: 0;
+  font-weight: 600;
+  font-size: 22px;
+  font-family: "Raleway", sans-serif;
+}
+.fa-comment {
+  color: black;
+  margin: 5px;
+  transition: 0.3s;
+  font-size: 65px;
+}
+.fa-comment:hover {
+  color: white;
+  transform: scale(1.1);
+}
+.video-responsive {
+  overflow: hidden;
+  border-radius: 5px;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 10px 5px;
+}
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+.leftA {
+  text-align: justify;
+  font-size: 22px;
+  background: url(./7.webp) center center;
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  min-height: 120px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 10px 5px;
+  margin-bottom: 20px;
+}
+.leftA p {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.leftA li {
+  margin-left: 50px;
+  color: black;
+  transition: 0.3s;
+}
+.leftA a:hover,
+.leftA li:hover {
+  color: white;
+  transform: scale(1.1);
+}
+.fa-shopping-cart {
+  margin-right: 20px;
+  font-size: 35px;
+  margin-left: 20px;
+}
+.extrait {
+  margin: auto;
+  background: url(./7.webp) center center;
+  margin-top: 30px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 10px 5px;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  transition: 0.4s;
+  /*max-width:  500px;*/
+}
+.extrait:hover {
+  transform: scale(1.05);
+  font-weight: 700;
+  box-shadow: rgba(0, 0, 0, 0.3) 2.4px 2.4px 5px 5px;
+}
+.video-responsive2 {
+  margin-top: 30px;
+}

@@ -1,0 +1,48 @@
+/*Page*/
+
+.quatrecentquatre b {
+  font-size: 40px;
+}
+.quatre1 b {
+  font-size: 150px;
+}
+.quatrecentquatre {
+  padding-top: 20vh;
+  height: 100vh;
+}
+.quatre4 {
+  margin-top: 120px;
+  background-color: var(--whiteish);
+  box-shadow: 0 0 2px, 0 0 0.5em var(--whiteish), 0 0 0.5em #ffef83,
+    0 0 0.1em #ffef83;
+  border-radius: 12px;
+  animation: heartbeat 3s ease-in-out infinite both 2.5s,
+    flicker-in-1 2s linear both 0.5s;
+}
+.quatre4 b {
+  font-size: 30px;
+  color: var(--blackish);
+  text-shadow: unset;
+}
+.quatrecentquatre .logo {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: var(--blackish);
+  font-size: 47px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: auto;
+  margin-bottom: 20px;
+  animation: flicker-in-1 2s linear both;
+}
+.quatrecentquatre .logo b {
+  text-shadow: 0 -40px 100px, 0 0 2px, 0 0 0.5em #ffef83,
+    0 0 0.5em var(--whiteish), 0 0 0.1em var(--whiteish),
+    0 10px 1px var(--whiteish);
+}
+.quatrecentquatre .logo b span {
+  animation: blink404 linear infinite 2s;
+}
+.quatrecentquatre .logo b span:nth-of-type(2) {
+  animation: blink404 linear infinite 3s;
+}

@@ -1,0 +1,546 @@
+{
+  "header": {
+    "logo": "img/RGLogo.webp",
+    "nom": "Rachel Gali",
+    "sectionTitleLivres": "Livres",
+    "sectionTitleLivresSub": "Les livres",
+    "sectionTitleLivresP": "",
+    "sectionTitleAvis": "Avis des lecteurs",
+    "sectionTitleAvisSub": "Avis des lecteurs",
+    "sectionTitleIllus": "",
+    "sectionTitleIllusSub": "",
+    "sectionTitleIllusP": "",
+    "sectionTitleAbout": "À propos",
+    "sectionTitleContact": "Contact"
+  },
+  "Intro": {
+    "title": "L'univers d'une apprentie conteuse",
+    "infographie": "img/4.webp",
+    "infographName": "Mes thèmes de prédilection",
+    "paragraph1": "Fascinée par l’imaginaire, je ne peux résister à la tentation de créer des histoires. Si mes récits sont pour la plupart assez sombres, j’aime y saupoudrer dès que possible un peu de douceur et de poésie.",
+    "paragraph2": "Ici ou là-bas, hier ou demain, vous me trouverez souvent dans la lune, et toujours à l’écoute de la petite étincelle qui donne naissance aux histoires."
+  },
+  "Genres": [
+    { "icon": "fa fa-moon-o", "title": "Fantastique" },
+    { "icon": "fa fa-globe", "title": "Science-fiction" },
+    { "icon": "fa fa-sun-o", "title": "Fantasy" },
+    { "icon": "fa fa-star", "title": "Contes" }
+  ],
+  "biblio": [
+    {
+      "id": "Lufthunger-Pulp",
+      "title": "Lufthunger Pulp N°1",
+      "format": "Anthologie Pulp",
+      "extrait": "",
+      "cover": "./img/books/Luft.webp",
+      "sousTitre": "Le Monde d'Après",
+      "type": "Ma nouvelle",
+      "oeuvre": "La Harpie",
+      "par": [
+        "Michel Naudin",
+        "LK",
+        "Thierry Fauquembergue",
+        "Serge Pelissier",
+        "Paul Simon",
+        "Laura Chapon-Zoheiri",
+        "Rachel Gali",
+        "Marianne Dos Reis",
+        "Julien Brethiot",
+        "Mina Jacobson",
+        "Damien Langlois",
+        "Julien Guého"
+      ],
+      "genres": ["Science-fiction", "Fantastique", "Fantasy", "Pulp"],
+      "éditeur": "Lufthunger Club",
+      "video": "https://www.youtube.com/embed/Y8RkyOooC6Q",
+      "video2": "",
+      "résumé": "Notre conception du temps nous pousse à jalonner tant l’Histoire que nos vies, à fixer des points de rupture lorsque de grands évènements y surviennent. Ces ruptures définissent deux mondes : celui d’avant et celui d’après. L’évolution effrénée de notre société ne l’a d’ailleurs pas seulement modifiée : elle a aussi raccourci de manière vertigineuse l’intervalle entre ces ruptures. Plusieurs siècles ont séparé la calèche de l’avion… Et à peine plus d’un demi-siècle plus tard, nous marchions sur la lune. Le temps avance de plus en plus vite et le monde d’après est de plus en plus proche. Chacune des douze nouvelles que vous trouverez dans ce premier numéro des Lufthunger Pulps explore un futur particulier. Ces douze histoires dévoilent autant de mondes d’après, pour le meilleur ou pour le pire.",
+      "résumé2": "Que se passerait-il si la Terre n'était plus qu'un vaste océan ? L'humanité aurait-elle encore sa place dans un tel monde ? Après un long périple à la recherche d'une arme ancestrale, Oz est de retour au village. Au cœur des sylves de coraux blancs, il en fait serment : ''Je vais tuer la Harpie''.",
+      "subres2": " Laissez-vous porter par les flots, et suivez un père sur les traces d'un monstre vorace, bien décidé à sauver sa progéniture afin que prospère sa descendance par-delà les futurs possibles. Même quand l'océan ne sera plus.",
+      "reviews": [],
+      "buy": [
+        {
+          "nameE": "Lufthunger Club",
+          "link": "https://lufthunger-club.com/produit/lufthunger-pulp-n1-le-monde-dapres"
+        }
+      ]
+    },
+
+    {
+      "id": "Geante-Rouge",
+      "title": "Géante Rouge",
+      "format": "Fanzine",
+      "extrait": "",
+      "cover": "img/books/Geante.webp",
+      "sousTitre": "",
+      "type": "",
+      "oeuvre": "",
+      "par": [""],
+      "genres": [
+        "Science-fiction",
+        "Fanzine",
+        "Nouvelles",
+        "Micro-nouvelles",
+        "Prix Littéraire"
+      ],
+      "éditeur": "Galaxies SF",
+      "video": "",
+      "video2": "",
+      "résumé": "13 nouvelles, 1 interview, 2 articles et 55 pépins. De quoi satisfaire à peu près tout le monde. Géante Rouge est un fanzine annuel, présentant de nouveaux auteurs, les prix littéraires Pépin, Le Bussy… et les conventions SF! Chaque année, depuis 2005, le Prix Pépin récompense des micro-nouvelles de moins de 300 signes.",
+      "résumé2": "",
+      "subres1": " Mon pépin ''IA'' est finaliste de l'édition 2021.",
+      "reviews": [],
+      "buy": [
+        {
+          "nameE": "Galaxies SF - Géante Rouge",
+          "link": "https://galaxiessf.com/geante-rouge/"
+        }
+      ]
+    },
+    {
+      "id": "Des-Astres-Humains",
+      "title": "Des Astres Humains",
+      "format": "Anthologie",
+      "extrait": "",
+      "cover": "img/books/Astre.webp",
+      "sousTitre": "Prix mille saison 2022",
+      "type": "Ma nouvelle",
+      "oeuvre": "Brille",
+      "par": [
+        "Célia Ibanez",
+        "Hugo Giovannetti",
+        "Rachel Gali",
+        "Simon Andrieu",
+        "David Law",
+        "Erwan Le Droguene",
+        "Nicolas Duval",
+        "Marc Gérard",
+        "Cyril Duquenne",
+        "Adrien Lioure",
+        "Mathias DelaPortée",
+        "Francis Politzer",
+        "Marion Holenstein",
+        "Maxime Lemarquis",
+        "Gaëtan Maran",
+        "Agathe Tournois",
+        "Olivier Gabersek",
+        "Boris Escande",
+        "Jean-Daniel Doutreligne",
+        "Philippe Caza",
+        "Irène Salvador",
+        "Isabelle Froment"
+      ],
+      "genres": [
+        "Prix Littéraire",
+        "Science-fiction",
+        "Fantastique",
+        "Fantasy"
+      ],
+      "éditeur": "Le Grimoire",
+      "video": "",
+      "video2": "https://www.youtube.com/embed/EdPF1RiDCgQ",
+      "résumé": "Ensemble, passons les Désastres humains vers Des Astres humains pour retrouver cette part d’humanité que nous avons oubliée. Vingt-deux nouvelles, accompagnées d’illustrations, de compositions musicales et de libres courts cinématographiques, vous proposent de la découvrir à la croisée des Arts du langage.",
+      "résumé2": "Il l’observe. Elle l’intrigue. Elle l’obsède. Elle rayonne et pourtant, elle dissimule une certaine noirceur. Alors que tout les oppose, comme le jour et la nuit, leurs routes se croisent. Leurs destins se lient, à l’aube d’une renaissance. Mais l’univers renferme encore d’innombrables secrets et le sort a ses raisons que les mortels ignorent… C’est ce qu’ils découvriront à la faveur des astres, au cœur de la forêt mystérieuse qui borde une maison solitaire.",
+      "reviews": [
+        "https://www.lepoint.fr/livres/un-livre-pour-lire-ecouter-et-voir-28-06-2021-2433151_37.php",
+        "https://www.babelio.com/livres/Portejoie-Des-astres-humains/1344546",
+        "https://www.chroniquesunoceandhistoires.com/cl-des-astres-humains",
+        "https://lantredemyfanwi.wordpress.com/2021/07/18/le-grimoire-des-astres-humains-prix-mille-saisons-2022/"
+      ],
+      "buy": [
+        {
+          "nameE": "Le Grimoire",
+          "link": "https://legrimoire.net/librairie/fr/publications/33-des-astres-humains-prix-mille-saisons-2022.html"
+        }
+      ]
+    },
+    {
+      "id": "Maisons-hantees",
+      "title": "Maisons hantées",
+      "format": "Anthologie",
+      "extrait": "",
+      "cover": "img/books/Maisons.webp",
+      "sousTitre": "",
+      "type": "Ma nouvelle",
+      "oeuvre": "Les sœurs jumelles",
+      "par": [
+        "Jean-Philippe Briançon",
+        "Rachel Gali",
+        "Jacques Lafolye",
+        "Guillaume de Pereyra",
+        "Jordan",
+        "Lati B.",
+        "Olivier Geffard",
+        "Aurélien Le Feuvre",
+        "Véronique Charbonnier",
+        "Sylwen Norden",
+        "Alexandre Gachet",
+        "Frédéric Durand",
+        "Camille Renevin",
+        "Sylvie Sarzaud",
+        "Thierry Fauquembergue",
+        "Billie Colin",
+        "Stéphanie Vernet",
+        "Maximin Chabrol",
+        "Thierry Jessua",
+        "Michaël Royer",
+        "Nicolas Reslinger"
+      ],
+      "genres": ["Horreur", "Fantastique", "Thriller"],
+      "éditeur": "éditions des Tourments",
+      "video": "",
+      "video2": "https://www.youtube.com/embed/NVRZQTG2CQY",
+      "résumé": "« Une chose étrange se produisit. Elle était consciente, mais n’arrivait pas à bouger. Sa poitrine semblait se serrer provoquant une sensation de suffocation. » « Les cordes vocales tranchées, incapable d’émettre le moindre son, Sylvain s’effondra sur sa chaise. » « Malgré mes efforts, c’est un sommeil sans rêves qui m’emporte ; un sommeil si profond, si paisible, que je n’ai plus peur. »« J’observe. Et je suis observé. La chose m’a repéré. Elle joue avec moi. Scelle les fenêtres. Condamne ma porte de chaînes cadenassées de l’intérieur.» « J’avais le sentiment d’avoir passé de longues années dans une sorte d’état second, hypnagogique, au fond duquel la vie défilait dans un brouillard inconsistant de douleurs et de nausées. » « C’est mon heure préférée, celle où la nuit se fait profonde. Je peux enfin quitter le coin du mur et me promener. Tout le monde dort ou croit rêver. »      ",
+      "résumé2": "«Je suis dans le salon où tout est noir. Je ne vois rien, mais je sais où je me trouve. Mes mains en avant tâtent des meubles que je m’évertue à contourner en gardant l’équilibre. J’avance, malgré moi, curieusement mue par une détermination qui m’échappe, une volonté étrangère et opiniâtre qui me force à continuer. Pourtant, si seulement je parvenais à m’écouter, je prendrais garde. Je serais attentive à la peur insidieuse en train de germer en moi. Je tiendrais compte de cette crainte qui se métamorphose en deux sœurs jumelles jouant à cache-cache. L’une, avec patience et habileté, ligote mes entrailles sans se lasser. L’autre, rusée, se tapit au creux de ma nuque et se love parmi les frissons qui la parcourent.»",
+      "reviews": [
+        "https://www.facebook.com/photo.php?fbid=160080996125885&set=a.123953113072007&type=3",
+        "http://www.bizarre-bizarre.net/2021/06/maisons-hantees-collectif.html",
+        "https://www.babelio.com/livres/Tourments-Maisons-hantees/1329360#critiques"
+      ],
+      "buy": [
+        {
+          "nameE": "éditions des Tourments",
+          "link": "http://www.editionsdestourments.fr/produit/313941/"
+        }
+      ]
+    },
+    {
+      "id": "Le-Dernier-Continuum-Avant-Disparition",
+      "title": "Le Dernier Continuum",
+      "format": "Anthologie",
+      "cover": "img/books/Continuum.webp",
+      "extrait": "",
+      "sousTitre": "",
+      "type": "Ma nouvelle",
+      "oeuvre": "Veni, Vidi, Vicky",
+      "par": [
+        "Barnett Chevin",
+        "Bastien Champougny",
+        "Bénédicte Monteil",
+        "Thierry Fauquembergue",
+        "Chris B. Honspacq",
+        "Bernard Weiss",
+        "Clémence Chanel",
+        "Frédéric Darriet",
+        "Dumè Antoni",
+        "Gilles Massardier",
+        "Gillian Brousse",
+        "Le dino bleu",
+        "Jean-Jacques Jouannais",
+        "Maximim Chabrol",
+        "Ange Beuque",
+        "Mello Von Mobius",
+        "Philippe Deniel",
+        "Rachel Gali",
+        "Tim Corey",
+        "Barnett Chevin",
+        "Silanad",
+        "Tom Newry"
+      ],
+      "genres": ["Science-fiction", "Fantastique", "Fantasy", "Horreur"],
+      "éditeur": "Otherlands",
+      "video": "https://www.youtube.com/embed/Iwz-RLypSMI",
+      "video2": "",
+      "résumé": "Une journée qui s’allonge au delà du normal, des baleines à cornes flottant dans l’espace, une maison connectée qui prend un peu trop soin de son locataire, un train qui ne vous emmène que vers une seule destination… Ces histoires étonnantes vous feront frissonner, rêver ou sourire !",
+      "résumé2": "Léon Mallone n’est pas du genre à profiter de sa retraite. Même si sa carrière à képi-land date d’un temps que les moins de vingt ans ne peuvent pas connaître, il compte bien résoudre cette enquête sordide. Quitte à le regretter…",
+      "reviews": [
+        "https://booknode.com/le_dernier_continuum_avant_disparition_03372442",
+        "https://www.amazon.fr/dernier-continuum-avant-disparition/dp/2797301943#customerReviews"
+      ],
+      "buy": [
+        {
+          "nameE": "Amazon",
+          "link": "https://www.amazon.fr/dernier-continuum-avant-disparition/dp/2797301943"
+        },
+        {
+          "nameE": "Fnac",
+          "link": "https://livre.fnac.com/a15181310/Chevin-Barnett-Le-dernier-continuum-avant-disparition"
+        }
+      ]
+    },
+    {
+      "id": "Faux-semblants",
+      "title": "Faux-semblants",
+      "format": "Anthologie",
+      "cover": "img/books/Faux.webp",
+      "extrait": "",
+      "sousTitre": "",
+      "type": "Ma nouvelle",
+      "oeuvre": "Pétrichor",
+      "par": [
+        "Anne-Laure Guillaumat",
+        "Rachel Gali",
+        "Hétonque",
+        "Narriaa",
+        "Mello",
+        "Emile Quasar",
+        "Lati B.",
+        "Karine Rennberg",
+        "Elline"
+      ],
+      "genres": ["Science-fiction", "Fantastique", "Représentation queer"],
+      "éditeur": "YBY éditions",
+      "video": "",
+      "video2": "",
+      "résumé": "L’objet que vous avez entre les mains n’est pas un livre, pas du tout. Il a les pattes d’un dragon et la gueule d’un loup, l’esprit mathématique et la mémoire chaotique. Il vous tend quelques fleurs, la bague de vos rêves et la clef d’un coffre secret. Vous acceptez ? Vraiment ? Ne sentez-vous pas la pluie glacée qui coule le long de votre dos, n’entendez-vous pas les bijoux clinquer dans l’ombre ? Si vous vous fiez aux apparences, nous ne pouvons plus rien pour vous !",
+      "résumé2": "Depuis que Helen est partie, Mari se noie dans ses interrogations. Que cache ce coffret en trompe l’oeil dont elle lui laissé la clé ? Que peut-il bien contenir ? Quand l’orage éclate subitement, Mari laisse ses questionnements de côté et se concentre sur le roulement du tonnerre, la pluie et son odeur. Soudainement, l’interphone sonne dans l’appartement et interrompt sa rêverie. Après des mois d’absence, Helen est de retour.",
+      "reviews": [
+        "https://booknode.com/faux_semblants_03366018",
+        "https://www.babelio.com/livres/Elline-Faux-semblants/1260859",
+        "https://www.livraddict.com/biblio/livre/faux-semblants-6.html",
+        "https://www.instagram.com/p/CNDPBtqDTOn/",
+        "https://www.instagram.com/p/CMcZpesH0cU/?fbclid=IwAR0LjoHMGe7aFeK6rxkYsMBD6ocNn2Q2aZd-tUoFvO_YaBg2dMEBaFqRtBI",
+        "https://www.instagram.com/p/CLkMHfrH6Kr/"
+      ],
+      "buy": [
+        {
+          "nameE": "YBY éditions",
+          "link": "https://ybyeditions.fr/product/faux-semblants/"
+        }
+      ]
+    },
+    {
+      "id": "Nutty-Seas",
+      "title": "Nutty Seas",
+      "format": "Anthologie",
+      "cover": "img/books/Nutty.webp",
+      "extrait": "",
+      "sousTitre": "",
+      "type": "Ma Nouvelle",
+      "oeuvre": "De chair et d’eau",
+      "par": [
+        "Alain Marty",
+        "Rachel Gali",
+        "Maritza Jaillet",
+        "Céline Borov",
+        "Alicia Alvarez",
+        "Amestyale",
+        "Léa Carroué",
+        "F.V. Syam"
+      ],
+      "genres": ["Science-fiction", "Fantasy", "Fantastique"],
+      "éditeur": "Nutty Sheep",
+      "video": "https://www.youtube.com/embed/5dlo99QQFow",
+      "video2": "",
+      "résumé": "Oh yeah, Oh yeah, moussaillons ! Rendez-vous à Nutty Harbor pour une croisière saupoudrée de magie et de mythes incroyables, où l’amour sauve les âmes les plus désespérées, ou pas… Embarquez pour une épopée surprenante, durant laquelle vous découvrirez huit nouvelles ancrées dans le genre imaginaire sur le thème de la débauche marine. Attention, qui dit amour, dit obstacles… Toutes les histoires d’amour ne finissent pas forcément bien.",
+      "résumé2": "Solitude et silence. Obscurité et mélancolie. Si certains s’y complaisent, Nix rêve de découvrir la terre ferme, la société humaine et son effervescence. La réalité sera-t-elle à la hauteur de ses attentes inspirées par les formidables épaves de la plaine abyssale ?",
+      "reviews": [
+        "https://www.babelio.com/livres/Alvarez-Nutty-Seas/1238270",
+        "https://booknode.com/nutty_seas_03330112"
+      ],
+      "buy": []
+    },
+    {
+      "id": "De-Samain-en-Halloween",
+      "title": "De Samain en Halloween",
+      "format": "Revue GandahaR n°20",
+      "cover": "img/books/Gandahar.webp",
+      "extrait": "",
+      "sousTitre": "La revue de tous les imaginaires",
+      "type": "Ma nouvelle",
+      "oeuvre": "L’imprudent désir de Mademoiselle Lola",
+      "par": [
+        "Martine Hermant",
+        "Philippe Caza",
+        "Jason Roy",
+        "Christophe Guillemain",
+        "Éric Vial Bonacci",
+        "Rachel Gali",
+        "Christophe Germier",
+        "Catherine Lamour",
+        "Cyril Fabre",
+        "Sofee L. Grey",
+        "Jeanne Miromensil",
+        "Bruno Pochesci",
+        "Richard D. Nolane",
+        "Jean-Pierre Andrevon",
+        "François Cau",
+        "JP Fontana",
+        "Christine Brignon"
+      ],
+      "genres": ["Fantastique", "Thriller", "Horreur", "Fantasy", "Articles"],
+      "éditeur": "éditions GandahaR",
+      "video": "",
+      "video2": "",
+      "résumé": "Selon le principe de la douche écossaise, nos émotions évolueront du tiède au brûlant puis au glacial de façon aléatoire, du sourire à l’angoisse puis à l’éclat de rire. Parfois même nous aurons presque peur. Presque seulement parce que le thème de cet opus n’est pas l’horreur mais plutôt la dérision. C’est pourquoi vous pourrez déguster aussi certains textes complètement délirants. Et le délire après tout, l’excès, ne font-il pas partie des réjouissances dédiées à ces fêtes où il s’agit d’exorciser la mort?",
+      "résumé2": "Lola ne désire qu’une chose – bon, elle est peut-être un peu difficile. Quand certains tombent dessus comme on tombe d’une chaise, d’autres doivent prendre des risques pour l’obtenir…et casser leur tirelire.",
+      "reviews": [
+        "https://www.babelio.com/livres/Gandahar-Gandahar-tome-20--De-Samain-en-Halloween/1176074#critiques",
+        "https://www.gandahar.net/gandahar-20-samain-halloween/"
+      ],
+      "buy": [
+        {
+          "nameE": "éditions GandahaR",
+          "link": "https://www.gandahar.net/e-boutique/"
+        }
+      ]
+    }
+  ],
+  "Avis": [
+    {
+      "img": "img/books/Nutty.webp",
+      "Atitle": "De chair et d’eau",
+      "text": "[...] Rachel Gali nous présente De chair et d’eau. Au début, j’ai pensé à une réécriture basique du conte de la petite sirène, pourtant, j’ai très vite changé d’avis. Le texte est intelligent et surprenant et la fin de l’histoire est pour moi la plus belle de tout l’ouvrage, j’en ai eu des frissons.",
+      "name": "Ivredelivress",
+      "linky": "https://ivredelivress.wordpress.com/2020/06/20/nutty-seas-collectif/"
+    },
+    {
+      "img": "img/books/Maisons.webp",
+      "Atitle": "Les sœurs jumelles",
+      "text": "Mes fantômes préférés dans toutes ces histoires, ont été ceux qui sont tristes, terriblement mélancoliques de leur vie, souvent écourtée trop rapidement. « Les Sœurs Jumelles » et « Finir l’Histoire » font ainsi partie de mes coups de cœur puisque ce sont deux nouvelles à la fois cruelles et poétiques.",
+      "name": "Bizarre-bizarre",
+      "linky": "http://www.bizarre-bizarre.net/2021/06/maisons-hantees-collectif.html"
+    },
+    {
+      "img": "img/books/Nutty.webp",
+      "Atitle": "De chair et d’eau",
+      "text": "« De chair et d’eau » pourrait correspondre à une réécriture du conte de La Petite Sirène, version originale. J’ai beaucoup apprécié cette nouvelle présentation de l’histoire. Malgré les multiples réécritures de ce conte, Rachel Gali parvient à proposer une version inédite pour moi.",
+      "name": "AlexandraLFC",
+      "linky": "https://booknode.com/nutty_seas_03330112"
+    },
+    {
+      "img": "img/King.webp",
+      "text": "Qui ça ?",
+      "name": "Stephen King"
+    }
+  ],
+  "Illustrations": [
+    {
+      "title": "HornKnight",
+      "largeImage": "img/portfolio/01-large.webp",
+      "smallImage": "img/portfolio/01-small.webp"
+    },
+    {
+      "title": "That Day",
+      "largeImage": "img/portfolio/02-large.webp",
+      "smallImage": "img/portfolio/02-small.webp"
+    },
+    {
+      "title": "Possessed",
+      "largeImage": "img/portfolio/03-large.webp",
+      "smallImage": "img/portfolio/03-small.webp"
+    },
+    {
+      "title": "Polar",
+      "largeImage": "img/portfolio/04-large.webp",
+      "smallImage": "img/portfolio/04-small.webp"
+    },
+    {
+      "title": "Zhaodi",
+      "largeImage": "img/portfolio/05-large.webp",
+      "smallImage": "img/portfolio/05-small.webp"
+    },
+    {
+      "title": "Isulka",
+      "largeImage": "img/portfolio/06-large.webp",
+      "smallImage": "img/portfolio/06-small.webp"
+    },
+    {
+      "title": "Happy Halloween",
+      "title": "Happy Halloween",
+      "largeImage": "img/portfolio/07-large.webp",
+      "smallImage": "img/portfolio/07-small.webp"
+    },
+    {
+      "title": "Greencatcher",
+      "largeImage": "img/portfolio/08-large.webp",
+      "smallImage": "img/portfolio/08-small.webp"
+    },
+    {
+      "title": "Vinyl",
+      "largeImage": "img/portfolio/09-large.webp",
+      "smallImage": "img/portfolio/09-small.webp"
+    },
+    {
+      "title": "Band Tour",
+      "largeImage": "img/portfolio/10-large.webp",
+      "smallImage": "img/portfolio/10-small.webp"
+    }
+  ],
+  "About": {
+    "sectionTitle": "À propos",
+    "photo1": "img/RG1.webp",
+    "paragraph1": "J’ai toujours été attirée par les créatures étranges, les monstres, les univers extraordinaires. Cet amour du merveilleux et de l’incroyable couplé au goût de la lecture m’ont naturellement amenée à explorer les genres de l'Imaginaire par la voie de l'écriture.",
+    "paragraph2": "Lorsque j’écris, je me plais à imaginer des métamorphoses, à explorer la mélancolie, la mort, et même « l’après ». J’aime me glisser dans la peau d’un personnage, imaginer sa perception du monde qui l’entoure. J’adore les monstres qui n’en sont pas, les êtres qui répondent à leur instinct ou les forces de la nature que l’on ignore.",
+    "paragraph3": ""
+  },
+  "Contact": {
+    "argu": "",
+    "email": "rachel.gali@outlook.fr",
+    "facebook": "https://www.facebook.com/RachelGaliAuteure/",
+    "instagram": "https://www.instagram.com/rachelgaliauteure/"
+  },
+  "booktemplate": [
+    {
+      "id": "Au-Coeur-de-la-Science-fiction",
+      "title": "Au Coeur de la Science-fiction",
+      "format": "Essai",
+      "extrait": "",
+      "cover": "img/books/SF.webp",
+      "sousTitre": "[Re]découverte d'un genre",
+      "type": "",
+      "oeuvre": "",
+      "par": [
+        "Gillian Brousse",
+        "Rachel Gali,",
+        "Wilfried Renaut,",
+        "Magali Lefebvre,",
+        "A.F Lune,",
+        "Louise Le Bars",
+        "et Laurent Cazuguel"
+      ],
+      "genres": [
+        "Science-fiction",
+        "Littérature",
+        "Cinéma",
+        "BD/Comic/Manga",
+        "Arts",
+        "Musique",
+        "Interviews"
+      ],
+      "éditeur": "Noir d'Absinthe",
+      "video": "https://www.youtube.com/embed/lEucNNJTWkM",
+      "video2": "",
+      "résumé": "Avec cet ouvrage, nous entendons vous faire (re) découvrir ce vaste genre aux multiples facettes capable comme nul autre de s’interroger sur notre monde. Nous allons parcourir le temps à la recherche du moment où tout a commencé, rencontrer les précurseurs et les personnalités du genre, nous faufiler au cœur de récits majeurs et explorer ses thèmes de prédilection. Qui que vous soyez, peu importe où et quand vous existez, vous découvrirez des œuvres qui résonneront en vous. Alors, respirez un grand coup et accrochez-vous à ce livre, mais n’attachez pas vos ceintures, car là où nous allons, nous n’aurons plus besoin de routes…",
+      "résumé2": "",
+      "reviews": [],
+      "buy": []
+    },
+    {
+      "id": "",
+      "title": "",
+      "format": "",
+      "extrait": "",
+      "cover": "",
+      "sousTitre": "",
+      "type": "",
+      "oeuvre": "",
+      "par": [""],
+      "genres": [""],
+      "éditeur": "",
+      "video": "",
+      "video2": "",
+      "résumé": "",
+      "résumé2": "",
+      "reviews": [],
+      "buy": [
+        {
+          "nameE": "Noir d'Absinthe",
+          "link": ""
+        },
+        {
+          "nameE": "Amazon",
+          "link": ""
+        },
+        {
+          "nameE": "Fnac",
+          "link": ""
+        },
+        {
+          "nameE": "Cultura",
+          "link": ""
+        }
+      ]
+    }
+  ]
+}

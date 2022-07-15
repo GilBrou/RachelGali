@@ -1,0 +1,73 @@
+/*Module*/
+.intro {
+  display: table;
+  width: 100%;
+  padding: 0;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  height: 80vh;
+  background: url(./2.webp) center center;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  background-size: cover;
+  box-shadow: 0px 0px 15px inset;
+}
+.intro h1 {
+  font-family: "Raleway", sans-serif;
+  color: black;
+  font-size: 32px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.intro h1 span {
+  font-weight: 800;
+  color: black;
+}
+.intro p {
+  font-family: "Raleway", sans-serif;
+  color: black;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+header .intro-text {
+  padding-top: 7vh;
+  padding-bottom: 7vh;
+  text-align: justify;
+}
+.intro-text h1 {
+  text-align: center;
+}
+.infographie {
+  /*filter: saturate(40%);*/
+  width: 100%;
+  /*margin-left: 150px;*/
+  -webkit-box-reflect: below 2px
+    linear-gradient(transparent, transparent, #0004);
+  animation: anipers 30s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    alternate both;
+}
+.logo {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #ddf2f7;
+  font-size: 47px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: auto;
+  margin-bottom: 20px;
+  animation: flicker-in-1 2s linear both;
+}
+.logo b {
+  text-shadow: 0 -40px 100px, 0 0 2px, 0 0 0.5em #71cde1, 0 0 0.5em #71cde1,
+    0 0 0.1em #71cde1, 0 10px 1px #000;
+}
+.logo b span {
+  animation: blink linear infinite 2s;
+}
+.logo b span:nth-of-type(2) {
+  animation: blink linear infinite 3s;
+}

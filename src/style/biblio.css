@@ -1,0 +1,31 @@
+/*module*/
+#bibliographie {
+  padding: 100px 0px 150px 0px;
+  background: url(./2.webp) center center;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  background-size: cover;
+  box-shadow: 0px 0px 15px inset;
+}
+#bibliographie h2{
+  color:  var(--blackish);
+  text-shadow: unset;
+  }
+  #bibliographie h2::after {
+    background: var(--blackish);
+}
+.bookshelf img {
+  margin: 50px auto 50px auto;
+  max-height: 370px;
+  object-fit: cover;
+  -webkit-box-reflect: below 2px
+    linear-gradient(transparent, transparent, #0004);
+  transform-origin: center;
+  transform: perspective(800px) rotateY(25deg);
+  transition: 0.4s;
+  box-shadow: 7px 7px 10px 2px #454545;
+}
+.bookshelf img:hover {
+  transform: scale(1.15) perspective(800px) rotateY(0deg);
+  box-shadow: 0px 10px 10px 2px #454545;
+}

@@ -1,0 +1,63 @@
+/*Module*/
+#contact {
+  color: black;
+  padding-bottom: 30px;
+  background: url(./1.webp) center center;
+  background-color: black;
+  background-size: cover;
+  color: white;
+  padding-bottom: 60px;
+  background-attachment: fixed;
+}
+#contact h3 {
+  color: white;
+  margin-top: 80px;
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+  font-weight: 400;
+}
+#contact .contact-item {
+  margin: 20px 0;
+}
+#contact .contact-item span {
+  color: white;
+  margin-bottom: 10px;
+  display: block;
+}
+#contact .contact-item i.fa {
+  margin-right: 10px;
+}
+#contact .social {
+  padding-top: 50px;
+  text-align: center;
+}
+#contact .social ul li {
+  display: inline-block;
+  margin: 0 20px;
+}
+#contact .social i.fa {
+  font-size: 32px;
+  width: 65px;
+  height: 65px;
+  padding: 14px 0;
+  border: 2px solid white;
+  color: white;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+#contact .social i.fa:hover {
+  color: black;
+  background: white;
+  transform: scale(1.1);
+}
+#footer p {
+  color: white;
+  font-size: 18px;
+  margin: 0px auto 50px auto;
+  text-align: justify;
+}
+.tight {
+  max-width: 50vw;
+  margin: auto;
+  text-align: justify;
+}
