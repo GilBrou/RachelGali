@@ -167,4 +167,11 @@
   .section-title {
     margin-bottom: 20px;
   }
+  .insideYoungR h1{
+    padding:  5px;
+    font-size: 30px;
+  }
+    .insideYoungR p{
+  font-size: 20px;
+  }
 }

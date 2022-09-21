@@ -15,7 +15,7 @@ function Young(props) {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.formatMin}-${i}`}
-                    className="insideYoung col-sm-6 col-md-6 col-lg-6"
+                    className="insideYoung col-sm-12 col-md-6 col-lg-6"
                   >
                     <Link to={`/${d.id}`}>
                       <Image smallImage={d.cover} />
@@ -27,7 +27,7 @@ function Young(props) {
               ? props.data.map((d, i) => (
                   <div
                     key={`${d.title}-${i}`}
-                    className="insideYoungR col-sm-6 col-md-6 col-lg-6"
+                    className="insideYoungR col-sm-12 col-md-6 col-lg-6"
                   >
                     <h1>{d.formatMin}</h1>
                     <p> {d.résumé}</p>

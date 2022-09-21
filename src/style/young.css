@@ -5,6 +5,8 @@
   background-attachment: fixed;
   background-blend-mode: overlay;
   background-size: cover;
+  border: unset;
+  box-shadow: unset;
 }
 #bibliographieJeunesse h2 {
   color: var(--blackish);
