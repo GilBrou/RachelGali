@@ -7,7 +7,7 @@ function Young(props) {
     <div id="bibliographieJeunesse" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Albums jeunesse</h2>
+          <h2>Album jeunesse</h2>
         </div>
         <div className="row">
           <div className="bookshelf2 portfolio-items">
