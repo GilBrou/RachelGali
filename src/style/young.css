@@ -1,0 +1,43 @@
+/*module*/
+#bibliographieJeunesse {
+  padding: 100px 0px 0px 0px;
+  background: url(./2.webp) center center;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+  background-size: cover;
+}
+#bibliographieJeunesse h2 {
+  color: var(--blackish);
+  text-shadow: unset;
+}
+#bibliographieJeunesse h2::after {
+  background: var(--blackish);
+}
+.insideYoung img:hover {
+  transform: scale(1) perspective(800px) rotateY(0deg);
+  box-shadow: 0px 10px 10px 2px #454545;
+}
+
+.insideYoung img {
+  transform-origin: center;
+  transform: perspective(800px) rotateY(15deg);
+}
+
+.insideYoungR {
+  padding: 40px;
+}
+.insideYoungR h1 {
+  color: black;
+  padding: 10px;
+  background-color: white;
+  background: url(./7.webp) center center;
+  background-size: cover;
+  border-radius: 10px;
+  box-shadow: 0px 1px 10px 1px #454545;
+}
+.insideYoungR p {
+  margin-top: 50px;
+  font-size: 24px;
+  color: black;
+  text-align: justify;
+}

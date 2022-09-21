@@ -35,7 +35,7 @@ function Header(props) {
           <ul className="nav navbar-nav navbar-right">
             {/*Scrollable section title*/}
             <li>
-              <a href="#bibliographie" className="page-scroll">
+              <a href="#bibliographieJeunesse" className="page-scroll">
                 {props.data ? props.data.sectionTitleLivres : "loading..."}
               </a>
             </li>

@@ -19,7 +19,27 @@
   padding: 20px;
   animation: scale-in-center 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0.3s both;
 }
-.left1 img {
+/*
+.horizontalImg {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 30px;
+  transition: 0.4s;
+  transform-origin: center;
+  transform: perspective(900px) rotateY(15deg);
+  box-shadow: rgba(0, 0, 0, 0.5) 2.4px 2.4px 10px 5px;
+}
+*/
+.horizontalImg {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 30px;
+  transition: 0.4s;
+  transform-origin: center;
+  transform: perspective(900px) rotateY(15deg);
+  box-shadow: rgba(0, 0, 0, 0.5) 2.4px 2.4px 10px 5px;
+}
+.leftImg {
   width: 100%;
   max-width: 400px;
   margin-bottom: 30px;

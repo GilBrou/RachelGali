@@ -4,9 +4,7 @@ function Image({ title, largeImage, smallImage }) {
     <div className="portfolio-item">
       <div className="hover-bg">
         {" "}
-        {/*<a href={largeImage} title={title}>*/}
-          <img src={smallImage} className="img-responsive" alt={title} />{" "}
-        {/*</a>{" "}*/}
+        <img src={smallImage} className="img-responsive vertiCover" alt={title} />{" "}
       </div>
     </div>
   );

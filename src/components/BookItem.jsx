@@ -19,11 +19,7 @@ function CheckBookStyle(props) {
         <div className="container container1">
           {/**********CONTAINER 1 - 1 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 left1">
-            <img
-              className="img-responsive"
-              src={props.data ? props.data.cover : "loading..."}
-              alt={props.data ? props.data.title : "loading..."}
-            />{" "}
+            {CheckImageformat(props)}
           </div>
           {/**********CONTAINER 1 - 2 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 right1">
@@ -68,11 +64,7 @@ function CheckBookStyle(props) {
         <div className="container container1">
           {/**********CONTAINER 1 - 1 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 left1">
-            <img
-              className="img-responsive"
-              src={props.data ? props.data.cover : "loading..."}
-              alt={props.data ? props.data.title : "loading..."}
-            />{" "}
+            {CheckImageformat(props)}
           </div>
           {/**********CONTAINER 1 - 2 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 right1">
@@ -128,11 +120,7 @@ function CheckBookStyle(props) {
         <div className="container container1">
           {/**********CONTAINER 1 - 1 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 left1">
-            <img
-              className="img-responsive"
-              src={props.data ? props.data.cover : "loading..."}
-              alt={props.data ? props.data.title : "loading..."}
-            />{" "}
+            {CheckImageformat(props)}
           </div>
           {/**********CONTAINER 1 - 2 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 right1">
@@ -178,11 +166,7 @@ function CheckBookStyle(props) {
         <div className="container container1">
           {/**********CONTAINER 1 - 1 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 left1">
-            <img
-              className="img-responsive"
-              src={props.data ? props.data.cover : "loading..."}
-              alt={props.data ? props.data.title : "loading..."}
-            />{" "}
+            {CheckImageformat(props)}
           </div>
           {/**********CONTAINER 1 - 2 **********/}
           <div className="col-sm-12 col-md-6 col-lg-6 right1">
@@ -736,6 +720,32 @@ function CheckSecondVid(props) {
             </div>
           </div>
         </div>
+      </div>
+    );
+  }
+}
+
+function CheckImageformat(props) {
+  if (props.data.imgFormat == "Horizontal") {
+    /*console.log("there is a format specification : horizontal");*/
+    return (
+      <div>
+        <img
+          className="img-responsive horizontalImg"
+          src={props.data ? props.data.cover : "loading..."}
+          alt={props.data ? props.data.title : "loading..."}
+        />{" "}
+      </div>
+    );
+  } else {
+    /*console.log("no format specification : vertical");*/
+    return (
+      <div>
+        <img
+          className="img-responsive leftImg"
+          src={props.data ? props.data.cover : "loading..."}
+          alt={props.data ? props.data.title : "loading..."}
+        />{" "}
       </div>
     );
   }

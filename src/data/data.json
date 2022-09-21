@@ -26,7 +26,79 @@
     { "icon": "fa fa-sun-o", "title": "Fantasy" },
     { "icon": "fa fa-star", "title": "Contes" }
   ],
+  "young": [
+    {
+      "id": "Atesh",
+      "imgFormat": "Horizontal",
+      "title": "Atesh",
+      "format": "Conte jeunesse illustré",
+      "formatMin": "Conte illustré",
+      "extrait": "",
+      "cover": "img/books/Atesh.webp",
+      "cover2": "img/books/AteshR.webp",
+      "sousTitre": "",
+      "type": "",
+      "oeuvre": "",
+      "par": ["Rachel Gali", "et", "Ampreh"],
+      "genres": ["Conte", "Fantasy", "Jeunesse"],
+      "éditeur": "Noir d'Absinthe",
+      "video": "https://www.youtube.com/embed/-hB4smyLpds",
+      "video2": "",
+      "résumé": "Atesh vit au palais avec le prince Kiritan et ses parents, le roi et la reine. La famille royale prend soin de lui, pourtant, Atesh a du mal à trouver sa place. Quelque chose lui manque. Lui qui rêve de contrées lointaines et d’explorer le vaste monde, pourrait bien découvrir le secret de ses origines…",
+      "résumé2": "",
+      "reviews": [],
+      "buy": [
+        {
+          "nameE": "Sortie le 06/10/22",
+          "link": "https://www.noirdabsinthe.com/shop"
+        }
+      ]
+    }
+  ],
+
   "biblio": [
+    {
+      "id": "Au-Coeur-de-la-Science-fiction",
+      "title": "Au Coeur de la Science-fiction",
+      "format": "Essai",
+      "extrait": "",
+      "cover": "img/books/SF.webp",
+      "sousTitre": "[Re]découverte d'un genre",
+      "type": "",
+      "oeuvre": "",
+      "par": [
+        "Gillian Brousse",
+        "Avec la participation de :",
+        "Rachel Gali,",
+        "Wilfried Renaut,",
+        "Magali Lefebvre,",
+        "A.F Lune,",
+        "Amélia Chatterton,",
+        "Morgane Sankiewiez",
+        "et Laurent Cazuguel"
+      ],
+      "genres": [
+        "Science-fiction",
+        "Littérature",
+        "Cinéma",
+        "BD/Comic/Manga",
+        "Arts",
+        "Musique",
+        "Interviews"
+      ],
+      "éditeur": "Noir d'Absinthe",
+      "video": "https://www.youtube.com/embed/4_fzynYMmBo",
+      "video2": "https://www.youtube.com/embed/videoseries?list=PLrV7JOeIe4uabwA8wMNl_lWBSgAFFTHtv",
+      "résumé": "Avec cet ouvrage, nous entendons vous faire (re) découvrir ce vaste genre aux multiples facettes capable comme nul autre de s’interroger sur notre monde. Nous allons parcourir le temps à la recherche du moment où tout a commencé, rencontrer les précurseurs et les personnalités du genre, nous faufiler au cœur de récits majeurs et explorer ses thèmes de prédilection. Qui que vous soyez, peu importe où et quand vous existez, vous découvrirez des œuvres qui résonneront en vous. Alors, respirez un grand coup et accrochez-vous à ce livre, mais n’attachez pas vos ceintures, car là où nous allons, nous n’aurons plus besoin de routes…",
+      "résumé2": "",
+      "reviews": [],
+      "buy": [
+        {
+          "nameE": "Noir d'Absinthe",
+          "link": "https://www.noirdabsinthe.com/product-page/au-coeur-de-la-science-fiction"
+        }
+      ]
+    },
     {
       "id": "Lufthunger-Pulp",
       "title": "Lufthunger Pulp N°1",
@@ -233,7 +305,6 @@
         "Philippe Deniel",
         "Rachel Gali",
         "Tim Corey",
-        "Barnett Chevin",
         "Silanad",
         "Tom Newry"
       ],

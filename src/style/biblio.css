@@ -5,16 +5,16 @@
   background-attachment: fixed;
   background-blend-mode: overlay;
   background-size: cover;
-  box-shadow: 0px 0px 15px inset;
+  /*box-shadow: 0px 0px 15px inset;*/
 }
-#bibliographie h2{
-  color:  var(--blackish);
+#bibliographie h2 {
+  color: var(--blackish);
   text-shadow: unset;
-  }
-  #bibliographie h2::after {
-    background: var(--blackish);
 }
-.bookshelf img {
+#bibliographie h2::after {
+  background: var(--blackish);
+}
+.vertiCover {
   margin: 50px auto 50px auto;
   max-height: 370px;
   object-fit: cover;

@@ -13,8 +13,6 @@
 .quatre4 {
   margin-top: 120px;
   background-color: var(--whiteish);
-  box-shadow: 0 0 2px, 0 0 0.5em var(--whiteish), 0 0 0.5em #ffef83,
-    0 0 0.1em #ffef83;
   border-radius: 12px;
   animation: heartbeat 3s ease-in-out infinite both 2.5s,
     flicker-in-1 2s linear both 0.5s;
@@ -36,7 +34,7 @@
   animation: flicker-in-1 2s linear both;
 }
 .quatrecentquatre .logo b {
-  text-shadow: 0 -40px 100px, 0 0 2px, 0 0 0.5em #ffef83,
+  text-shadow: 0 -40px 100px, 0 0 2px, 0 0 0.5em var(--whiteish),
     0 0 0.5em var(--whiteish), 0 0 0.1em var(--whiteish),
     0 10px 1px var(--whiteish);
 }
