@@ -214,6 +214,7 @@
       "résumé": "Ensemble, passons les Désastres humains vers Des Astres humains pour retrouver cette part d’humanité que nous avons oubliée. Vingt-deux nouvelles, accompagnées d’illustrations, de compositions musicales et de libres courts cinématographiques, vous proposent de la découvrir à la croisée des Arts du langage.",
       "résumé2": "Il l’observe. Elle l’intrigue. Elle l’obsède. Elle rayonne et pourtant, elle dissimule une certaine noirceur. Alors que tout les oppose, comme le jour et la nuit, leurs routes se croisent. Leurs destins se lient, à l’aube d’une renaissance. Mais l’univers renferme encore d’innombrables secrets et le sort a ses raisons que les mortels ignorent… C’est ce qu’ils découvriront à la faveur des astres, au cœur de la forêt mystérieuse qui borde une maison solitaire.",
       "reviews": [
+        "http://fodor-mediaspace.org/millesaisons/CHRONIQUES+-Des+astres+humains-",
         "https://www.lepoint.fr/livres/un-livre-pour-lire-ecouter-et-voir-28-06-2021-2433151_37.php",
         "https://www.babelio.com/livres/Portejoie-Des-astres-humains/1344546",
         "https://www.chroniquesunoceandhistoires.com/cl-des-astres-humains",
@@ -448,6 +449,18 @@
     }
   ],
   "Avis": [
+        {
+      "img": "img/books/Astre.webp",
+      "Atitle": "Brille",
+      "text": "Un oiseau blessé est secouru par une jeune fille; une jeune fille malade est secourue par un oiseau. Cette parenthèse saura-t-elle survivre aux craintes du clan des corvidés et à l'appel du monstre de fer ? ''Brille'' est sensoriel. Le récit, du point de vue du corbeau, nous permet de prendre du recul sur nos habitudes d'humains : ici, ce sont les oiseaux qui nous nomment, et ce sont eux qui s'entichent de nous. Et le monde est rempli de monstres mécaniques. Une chose est sûre : cette nouvelle vous offrira de beaux moments fragiles, sublimés par le style doux de Rachel Gali. On a même envie d'en apprendre plus sur la culture des corbeaux !",
+      "name": "Boris Escande",
+      "linky": "http://fodor-mediaspace.org/millesaisons/CHRONIQUES+-Des+astres+humains-"
+    },
+        {
+      "img": "img/King.webp",
+      "text": "Qui ça ?",
+      "name": "Stephen King"
+    },
     {
       "img": "img/books/Nutty.webp",
       "Atitle": "De chair et d’eau",
@@ -468,12 +481,8 @@
       "text": "« De chair et d’eau » pourrait correspondre à une réécriture du conte de La Petite Sirène, version originale. J’ai beaucoup apprécié cette nouvelle présentation de l’histoire. Malgré les multiples réécritures de ce conte, Rachel Gali parvient à proposer une version inédite pour moi.",
       "name": "AlexandraLFC",
       "linky": "https://booknode.com/nutty_seas_03330112"
-    },
-    {
-      "img": "img/King.webp",
-      "text": "Qui ça ?",
-      "name": "Stephen King"
     }
+
   ],
   "Illustrations": [
     {
