@@ -46,10 +46,15 @@
       "video2": "",
       "résumé": "Atesh vit au palais avec le prince Kiritan et ses parents, le roi et la reine. La famille royale prend soin de lui, pourtant, Atesh a du mal à trouver sa place. Quelque chose lui manque. Lui qui rêve de contrées lointaines et d’explorer le vaste monde, pourrait bien découvrir le secret de ses origines…",
       "résumé2": "",
-      "reviews": [],
+      "reviews": [
+        "https://www.instagram.com/p/CnAF27Oolzi/",
+        "https://www.instagram.com/p/Cm5MdASKId-/",
+        "https://www.instagram.com/p/CnFOsb8q0aM/?utm_source=ig_web_copy_link",
+        "https://livraddict.com/biblio/livre/atesh.html"
+      ],
       "buy": [
         {
-          "nameE": "Sortie le 06/10/22",
+          "nameE": "Noir d'Absinthe",
           "link": "https://www.noirdabsinthe.com/shop"
         }
       ]
@@ -456,17 +461,33 @@
       "name": "Boris Escande",
       "linky": "http://fodor-mediaspace.org/millesaisons/CHRONIQUES+-Des+astres+humains-"
     },
-        {
-      "img": "img/King.webp",
-      "text": "Qui ça ?",
-      "name": "Stephen King"
+
+    {
+      "img": "img/books/Atesh.webp",
+      "Atitle": "Atesh",
+      "text": "Ce conte illustré à tout ce qu'il faut pour aborder en douceur des sujets compliqués avec de jeunes enfants. Que ce soit le manque, le sentiment d'appartenance (filial ou non), ou encore la soif de découverte. Car Atesh, aussi petit reptile qu'il soit, aspire à plus que ce que sa vie avec sa famille d'adoption lui apporte. J'ai beaucoup aimé le personnage de la reine [...], ses interventions toujours en douceur ont de réels impacts dans l'histoire et sur le lecteur. De plus, les dessins se marient à merveille avec le texte, ce qui nous donne envie d'en découvrir toujours plus sur l'univers d'Atesh ! Ce fut donc une très jolie découverte pour moi !",
+      "name": "L'écritoire de fiction",
+      "linky": "https://www.instagram.com/p/CnAF27Oolzi/"
     },
+    {
+      "img": "img/books/Atesh.webp",
+      "Atitle": "Atesh",
+      "text": "Un livre jeunesse palpitant avec une histoire pleine de tendresse. Atesh est un jeune iguane qui vit dans le palais royal avec Kiritan, le jeune prince. Une question existentielle pertube notre jeune iguane à travers un compte raconté par la reine. Un petit livre que j'ai adorée car l'histoire est très intéressante, l'idée de quête identitaire expliquée avec des mots simples. [...] Les illustrations sont vraiment sublimes, mélangeant le monde enfantin et les peintures style asiatique. Je lirai cette histoire à mes enfants ! Un beau mélange entre les mots et les illustrations.",
+      "name": "Alera Books",
+      "linky": "https://www.instagram.com/p/Cm5MdASKId-/"
+    },
+
     {
       "img": "img/books/Nutty.webp",
       "Atitle": "De chair et d’eau",
       "text": "[...] Rachel Gali nous présente De chair et d’eau. Au début, j’ai pensé à une réécriture basique du conte de la petite sirène, pourtant, j’ai très vite changé d’avis. Le texte est intelligent et surprenant et la fin de l’histoire est pour moi la plus belle de tout l’ouvrage, j’en ai eu des frissons.",
       "name": "Ivredelivress",
       "linky": "https://ivredelivress.wordpress.com/2020/06/20/nutty-seas-collectif/"
+    },
+     {
+      "img": "img/King.webp",
+      "text": "Qui ça ?",
+      "name": "Stephen King"
     },
     {
       "img": "img/books/Maisons.webp",
@@ -475,6 +496,7 @@
       "name": "Bizarre-bizarre",
       "linky": "http://www.bizarre-bizarre.net/2021/06/maisons-hantees-collectif.html"
     },
+           
     {
       "img": "img/books/Nutty.webp",
       "Atitle": "De chair et d’eau",
