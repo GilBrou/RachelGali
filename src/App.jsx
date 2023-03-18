@@ -7,10 +7,8 @@ import SmoothScroll from "smooth-scroll";
 /***PAGES***/
 import Homepage from "./Homepage";
 import BookPage from "./BookPage";
+import LinkTree from "./Linktree";
 import Error404 from "./Error404";
-
-/***COMPONENTS***/
-import Contact from "./components/Contact";
 
 /***DATAS***/
 import JsonData from "./data/data.json";
@@ -39,6 +37,9 @@ function App() {
           <Route exact path="/accueil">
             <Homepage data={allDatas} />
           </Route>
+          <Route exact path="/liens">
+            <LinkTree data={allDatas} />
+          </Route>
           <Route exact path="/:id">
             <BookPage />
           </Route>
@@ -49,7 +50,7 @@ function App() {
             <Error404 />
           </Route>
         </Switch>
-        <Contact data={allDatas.Contact} />
+        
       </div>
     </Router>
   );

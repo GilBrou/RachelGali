@@ -9,6 +9,7 @@ import Young from "./components/Young";
 import Biblio from "./components/Biblio";
 import Avis from "./components/Avis";
 import About from "./components/About";
+import Contact from "./components/Contact";
 
 /***PAGE***/
 function Homepage(data) {
@@ -21,6 +22,7 @@ function Homepage(data) {
       <Biblio data={data.data.header} data2={data.data.biblio} />
       <Avis data={data.data.header} data2={data.data.Avis} />
       <About data={data.data.About} />
+      <Contact data={data.data.Contact} />
     </div>
   );
 }

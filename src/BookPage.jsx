@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 import Header2 from "./components/Header2";
 import BookItem from "./components/BookItem";
 import Error404 from "./Error404";
+import Contact from "./components/Contact";
 
 /***DATAS***/
 import JsonData from "./data/data.json";
@@ -59,6 +60,7 @@ function BookPage(data) {
     <div className="bookpage">
       <Header2 data={allData.header} />
       {getInfo()}
+      <Contact data={allData.Contact} />      
     </div>
   );
 }
