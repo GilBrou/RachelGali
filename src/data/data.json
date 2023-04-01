@@ -42,20 +42,22 @@
       "par": ["Rachel Gali", "et", "Ampreh"],
       "genres": ["Conte", "Fantasy", "Jeunesse"],
       "éditeur": "Noir d'Absinthe",
-      "video": "https://www.youtube.com/embed/-hB4smyLpds",
-      "video2": "",
+      "video2": "https://www.youtube.com/embed/-hB4smyLpds",
+      "video": "https://www.youtube.com/embed/r4GZc4M6v-Q",
       "résumé": "Atesh vit au palais avec le prince Kiritan et ses parents, le roi et la reine. La famille royale prend soin de lui, pourtant, Atesh a du mal à trouver sa place. Quelque chose lui manque. Lui qui rêve de contrées lointaines et d’explorer le vaste monde, pourrait bien découvrir le secret de ses origines…",
       "résumé2": "",
       "reviews": [
+        "https://www.instagram.com/p/CqSYKF3qn0T/?igshid=MDJmNzVkMjY=",
+        "https://www.instagram.com/p/CoWtOZcK5kq/",
+        "https://www.instagram.com/p/CnZFIYiK5zV/?igshid=MDJmNzVkMjY%3D",
         "https://www.instagram.com/p/CnAF27Oolzi/",
-        "https://www.instagram.com/p/Cm5MdASKId-/",
-        "https://www.instagram.com/p/CnFOsb8q0aM/?utm_source=ig_web_copy_link",
-        "https://livraddict.com/biblio/livre/atesh.html"
+        "https://www.instagram.com/p/CoXEJPhqPHD/?igshid=MDJmNzVkMjY=",
+        "https://www.instagram.com/p/Cm5MdASKId-/"
       ],
       "buy": [
         {
           "nameE": "Noir d'Absinthe",
-          "link": "https://www.noirdabsinthe.com/shop"
+          "link": "https://www.noirdabsinthe.com/product-page/atesh"
         }
       ]
     }
@@ -454,7 +456,21 @@
     }
   ],
   "Avis": [
-        {
+    {
+      "img": "img/books/Atesh.webp",
+      "Atitle": "Atesh",
+      "text": "Ce conte illustré a tout ce qu'il faut pour aborder en douceur des sujets compliqués avec de jeunes enfants. Que ce soit le manque, le sentiment d'appartenance (filial ou non), ou encore la soif de découverte. [...] De plus, les dessins se marient à merveille avec le texte, ce qui nous donne envie d'en découvrir toujours plus sur l'univers d'Atesh ! Ce fut donc une très jolie découverte pour moi !",
+      "name": "L'écritoire de fiction",
+      "linky": "https://www.instagram.com/p/CnAF27Oolzi/"
+    },
+    {
+      "img": "img/books/Atesh.webp",
+      "Atitle": "Atesh",
+      "text": "L’histoire est vraiment simple à comprendre pour les enfants, l’auteure met en avant l’acceptation de soi dans un environnement qui n’est pas forcément le nôtre ainsi que le devoir et/ou le besoin de savoir d’où l’on vient. En 30 pages seulement, l’auteure arrive à nous combler et à clôturer l’histoire. Je pense que chaque enfant peut se familiariser aisément avec ce roman qui est facile à comprendre.",
+      "name": "CacoBouquine",
+      "linky": "https://www.instagram.com/p/CoWtOZcK5kq/"
+    },
+    {
       "img": "img/books/Astre.webp",
       "Atitle": "Brille",
       "text": "Un oiseau blessé est secouru par une jeune fille; une jeune fille malade est secourue par un oiseau. Cette parenthèse saura-t-elle survivre aux craintes du clan des corvidés et à l'appel du monstre de fer ? ''Brille'' est sensoriel. Le récit, du point de vue du corbeau, nous permet de prendre du recul sur nos habitudes d'humains : ici, ce sont les oiseaux qui nous nomment, et ce sont eux qui s'entichent de nous. Et le monde est rempli de monstres mécaniques. Une chose est sûre : cette nouvelle vous offrira de beaux moments fragiles, sublimés par le style doux de Rachel Gali. On a même envie d'en apprendre plus sur la culture des corbeaux !",
@@ -465,16 +481,14 @@
     {
       "img": "img/books/Atesh.webp",
       "Atitle": "Atesh",
-      "text": "Ce conte illustré à tout ce qu'il faut pour aborder en douceur des sujets compliqués avec de jeunes enfants. Que ce soit le manque, le sentiment d'appartenance (filial ou non), ou encore la soif de découverte. Car Atesh, aussi petit reptile qu'il soit, aspire à plus que ce que sa vie avec sa famille d'adoption lui apporte. J'ai beaucoup aimé le personnage de la reine [...], ses interventions toujours en douceur ont de réels impacts dans l'histoire et sur le lecteur. De plus, les dessins se marient à merveille avec le texte, ce qui nous donne envie d'en découvrir toujours plus sur l'univers d'Atesh ! Ce fut donc une très jolie découverte pour moi !",
-      "name": "L'écritoire de fiction",
-      "linky": "https://www.instagram.com/p/CnAF27Oolzi/"
+      "text": "L'univers est bien représenté grâce aux illustrations. L’intrigue sur Atesh est très intéressante tout comme les révélations. J'ai adoré cette petite histoire du début à la fin. Je l'ai lu à mes petits qui ont beaucoup aimé. En conclusion, adoré, magnifique album très original.",
+      "name": "Jesgar87",
+      "linky": "https://www.instagram.com/p/CqSYKF3qn0T/?igshid=MDJmNzVkMjY%3D"
     },
     {
-      "img": "img/books/Atesh.webp",
-      "Atitle": "Atesh",
-      "text": "Un livre jeunesse palpitant avec une histoire pleine de tendresse. Atesh est un jeune iguane qui vit dans le palais royal avec Kiritan, le jeune prince. Une question existentielle pertube notre jeune iguane à travers un compte raconté par la reine. Un petit livre que j'ai adorée car l'histoire est très intéressante, l'idée de quête identitaire expliquée avec des mots simples. [...] Les illustrations sont vraiment sublimes, mélangeant le monde enfantin et les peintures style asiatique. Je lirai cette histoire à mes enfants ! Un beau mélange entre les mots et les illustrations.",
-      "name": "Alera Books",
-      "linky": "https://www.instagram.com/p/Cm5MdASKId-/"
+      "img": "img/King.webp",
+      "text": "Je ne connais pas cette personne.",
+      "name": "Stephen King"
     },
 
     {
@@ -484,28 +498,40 @@
       "name": "Ivredelivress",
       "linky": "https://ivredelivress.wordpress.com/2020/06/20/nutty-seas-collectif/"
     },
-     {
-      "img": "img/King.webp",
-      "text": "Qui ça ?",
-      "name": "Stephen King"
-    },
+
     {
       "img": "img/books/Maisons.webp",
       "Atitle": "Les sœurs jumelles",
       "text": "Mes fantômes préférés dans toutes ces histoires, ont été ceux qui sont tristes, terriblement mélancoliques de leur vie, souvent écourtée trop rapidement. « Les Sœurs Jumelles » et « Finir l’Histoire » font ainsi partie de mes coups de cœur puisque ce sont deux nouvelles à la fois cruelles et poétiques.",
       "name": "Bizarre-bizarre",
       "linky": "http://www.bizarre-bizarre.net/2021/06/maisons-hantees-collectif.html"
-    },
-           
+    }
+  ],
+
+  "avis sauvegardés": [
     {
       "img": "img/books/Nutty.webp",
       "Atitle": "De chair et d’eau",
       "text": "« De chair et d’eau » pourrait correspondre à une réécriture du conte de La Petite Sirène, version originale. J’ai beaucoup apprécié cette nouvelle présentation de l’histoire. Malgré les multiples réécritures de ce conte, Rachel Gali parvient à proposer une version inédite pour moi.",
       "name": "AlexandraLFC",
       "linky": "https://booknode.com/nutty_seas_03330112"
+    },
+    {
+      "img": "img/books/Atesh.webp",
+      "Atitle": "Atesh",
+      "text": "Cet album est très poétique et les illustrations sont superbes avec de jolies couleurs chaudes et réconfortantes. Une jolie histoire à lire à partir de 6 ans pour réfléchir sur le bonheur, la famille, l'envie d'explorer...",
+      "name": "Marie lit et patisse",
+      "linky": "https://www.instagram.com/p/CoXEJPhqPHD/?igshid=MDJmNzVkMjY%3D"
+    },
+    {
+      "img": "img/books/Atesh.webp",
+      "Atitle": "Atesh",
+      "text": "Un livre jeunesse palpitant avec une histoire pleine de tendresse. [...] Les illustrations sont vraiment sublimes, mélangeant le monde enfantin et les peintures style asiatique. Je lirai cette histoire à mes enfants ! Un beau mélange entre les mots et les illustrations.",
+      "name": "Alera Books",
+      "linky": "https://www.instagram.com/p/Cm5MdASKId-/"
     }
-
   ],
+
   "Illustrations": [
     {
       "title": "HornKnight",
