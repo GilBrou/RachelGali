@@ -15,7 +15,7 @@ function Links(props) {
                 href={props.data ? props.data.ateshLink : "/"}
               >
                 <i className="fa fa-cart-arrow-down">
-                  <i className="fa fa-arrow-left"></i> Acheter Atesh
+                  <i className="fa fa-arrow-left"></i>Atesh
                 </i>
               </a>
 
