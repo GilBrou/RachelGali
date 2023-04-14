@@ -98,11 +98,25 @@
       "video2": "https://www.youtube.com/embed/videoseries?list=PLrV7JOeIe4uabwA8wMNl_lWBSgAFFTHtv",
       "résumé": "Avec cet ouvrage, nous entendons vous faire (re) découvrir ce vaste genre aux multiples facettes capable comme nul autre de s’interroger sur notre monde. Nous allons parcourir le temps à la recherche du moment où tout a commencé, rencontrer les précurseurs et les personnalités du genre, nous faufiler au cœur de récits majeurs et explorer ses thèmes de prédilection. Qui que vous soyez, peu importe où et quand vous existez, vous découvrirez des œuvres qui résonneront en vous. Alors, respirez un grand coup et accrochez-vous à ce livre, mais n’attachez pas vos ceintures, car là où nous allons, nous n’aurons plus besoin de routes…",
       "résumé2": "",
-      "reviews": [],
+      "reviews": [
+        "https://www.babelio.com/livres/Brousse-Au-coeur-de-la-Science-fiction/1450472#critiques"
+      ],
       "buy": [
         {
           "nameE": "Noir d'Absinthe",
           "link": "https://noirdabsinthe.hiboutik.com/myshop/?page=product&id=83"
+        },
+        {
+          "nameE": "Amazon",
+          "link": "https://www.amazon.fr/Au-coeur-Science-fiction-Gillian-Brousse/dp/2490417967/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr="
+        },
+        {
+          "nameE": "Fnac",
+          "link": "https://www.fnac.com/a17360334/Gillian-Brousse-Au-coeur-de-la-Science-fiction"
+        },
+        {
+          "nameE": "Cultura",
+          "link": "https://www.cultura.com/p-au-coeur-de-la-science-fiction-9782490417964.html"
         }
       ]
     },
